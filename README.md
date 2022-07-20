@@ -1,1 +1,3 @@
-# tomcat-webserver-deployment
+# maven-project
+
+Simple Maven Project
